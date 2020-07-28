@@ -1,8 +1,7 @@
 {
-  "name": "Cardanpool",
-  "ticker": "CPOOL",
-  "description": "Staking Pool for Cardano Blockchain",
+  "name": "CARDANPOOL",
+  "ticker": "CARDA",
+  "description": "CARDANO COMMUNITY POOL",
   "homepage": "https://cardanpool.github.io/",
-  "nonce": "1595834360"
+  "nonce": "1595909827"
 }
-
