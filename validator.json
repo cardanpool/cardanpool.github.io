@@ -1,0 +1,6 @@
+{
+    "name":"poolname",
+    "ticker":"poolticker",
+    "discord":"samuel CPOOL (Cardanpool)#1234",
+    "validation":"https:cardanpool.github.io/validator.json"
+}
