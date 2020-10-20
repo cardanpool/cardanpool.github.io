@@ -7,7 +7,7 @@
             "twitter_handle": "Cardanpool_ADA",
             "telegram_handle": "cardanpool",
             "facebook_handle": "cardanpool",
-            "youtube_handle": "UCx0gI1oM4Wm2DnmVPZnExFQ",
+            "youtube_handle": "channel/UCx0gI1oM4Wm2DnmVPZnExFQ",
             "twitch_handle": "",
             "discord_handle": "",
             "github_handle": ""
@@ -21,9 +21,9 @@
             "vat_id": ""
         },
         "about": {
-            "me": "As a Systems Engineers team, we strongly believe in Cardano Project. Anyone can join us. We have adopted a continuous improvement approach for you. Pledge will be increasing monthly. Systems are going to be improved continuously. Let's grow together!!!.",
-            "server": "We have our servers in Toronto. All our infrastructure is Cloud based so we offer high availability and we can easily scale at more servers if we consider necessary.",
-            "company": "As a company we aim to evolve as the cardano project grows. Our goal in the future is continue having the staking pool, with greater pledge and lots of delegators"
+            "me": "My name is Samuel, I am the owner of this Staking Pool, I am from El Salvador, I consider myself a honest, friendly, curious and hard working person. This Staking Pool is my personal project, it was hard to configure it properly and have invested a lot of time maintaining it, that's the reason why I have affection to it :)",
+            "server": "My infrastructure is Cloud based, so I can offer you high availability and have configured failover to it, you can check my server information in my webpage to see a diagram. I have two relays, and two block producers (one is active and the other one is passive).",
+            "company": "As you can see I am just a normal human being, not a company. I thought this project to live in the long term, I've been from the beginning of shelley, and will continue as long as I can, my plan is to reinvest any reward in this staking pool, so pledge and size of the pool will be increasing."
         },
         "rss": ""
     },
