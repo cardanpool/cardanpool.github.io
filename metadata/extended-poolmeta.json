@@ -13,17 +13,17 @@
             "github_handle": ""
         },
         "company": {
-            "name": "Cardanpool",
-            "addr": "Antiguo Cuscatlan",
-            "city": "La Libertad",
-            "country": "El Salvador",
+            "name": "Juan (CryptoSheinix) and Sam",
+            "addr": "",
+            "city": "",
+            "country": "El Salvador | New Zeland",
             "company_id": "",
             "vat_id": ""
         },
         "about": {
-            "me": "My name is Samuel, I am the owner of this Staking Pool, I am from El Salvador, I consider myself a honest, friendly, curious and hard working person. This Staking Pool is my personal project, it was hard to configure it properly and have invested a lot of time maintaining it, that's the reason why I have affection to it :)",
-            "server": "My infrastructure is Cloud based, so I can offer you high availability and have configured failover to it, you can check my server information in my webpage to see a diagram. I have two relays, and two block producers (one is active and the other one is passive).",
-            "company": "As you can see I am just a normal human being, not a company. I thought this project to live in the long term, I've been from the beginning of shelley, and will continue as long as I can, my plan is to reinvest any reward in this staking pool, so pledge and size of the pool will be increasing."
+            "me": "We are two cryptocurrency entrepreneurs: <br> -Juan (Cryptosheinix) a Software Developer from Argentina, living in New Zeland, crazy about crypto and one of the most popular Youtube Cryptocurrency content creator in Spanish Language. <br>-Samuel, a Software Developer from El Salvador, living in El Salvador, sharing the craziness about crypto with Juan and an active member of the cardano community.",
+            "server": "Cloud based servers, relays in two different regions, 16 GB Memory, 6 CPU cores each server, constant maintenance, security measures taken.",
+            "company": "CardanPool is the result of the collaboration of Juan (Cryptosehinix) and Sam. We believe in the Cardano project, so we are here in the long term, We have planned to be operating for many years. We are commited to support decentralization and those amazing Cardano initiatives in the Latin American region."
         },
         "rss": ""
     },
